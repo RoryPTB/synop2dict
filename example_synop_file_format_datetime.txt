@@ -1,0 +1,11 @@
+pflag_productidentifier_oflag_originator_yyyyMMddhhmmss.type
+
+pflag - only letters possible.
+productidentifer - where the data is coming from, form: country_code - data designator - free description.
+oflag - a character or combination of characters indicating how to decode the originator field. Probably only letters.
+originator - contains info that states where the file originated. Probably only letters.
+
+Example SYNOP tac file names:
+X_fr-meteofrance-Toulouse_C_LFPW_20060913030000.tar.xz
+Z_IDN60000_C_AMMC_20020617000000.gif
+Z_LWDA_C_EGRR_20020617000000_LWDA16_0000.BIN.Z

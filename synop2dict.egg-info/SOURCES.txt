@@ -1,0 +1,12 @@
+README.md
+setup.py
+synop2dict/__init__.py
+synop2dict/convert.py
+synop2dict/extract.py
+synop2dict/ingest.py
+synop2dict.egg-info/PKG-INFO
+synop2dict.egg-info/SOURCES.txt
+synop2dict.egg-info/dependency_links.txt
+synop2dict.egg-info/not-zip-safe
+synop2dict.egg-info/requires.txt
+synop2dict.egg-info/top_level.txt

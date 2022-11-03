@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: synop2dict
+Version: 0.1
+Summary: Convert a SYNOP tac messages or a SYNOP file into a dictionary ready for conversion to BUFR4.
+Author: Rory Burke
+Author-email: RBurke@wmo.int
